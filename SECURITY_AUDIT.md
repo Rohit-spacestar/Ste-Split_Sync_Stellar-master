@@ -4,7 +4,7 @@
 **Target Contract**: `split_sync` (Soroban Rust Smart Contract)  
 **Contract ID (Testnet)**: `CA7SDEPQEIQZBA6VVTSLB4NTBKAW2CGSIRTKGK66XHK4W5PPN43DRLPI`  
 **Network**: Stellar Soroban (Testnet / Mainnet Ready)  
-**Status**: PASSED — Zero High/Critical Vulnerabilities Identified  
+**Status**: PASSED — Zero High/Critical Vulnerabilities Identified   
 
 ---
 
