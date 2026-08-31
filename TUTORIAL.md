@@ -1,4 +1,4 @@
-# Building Automated Zero-Dust Revenue Splitters on Stellar Soroban
+# Building Automated Zero-Dust Revenue Splitters on Stellar Soroban 
 
 **Author**: SplitSync Core Engineering Team  
 **Category**: Developer Tutorial & Ecosystem Technical Contribution  
