@@ -1,4 +1,4 @@
-# SplitSync
+# SplitSync 
 
 > Stellar-powered automated, zero-dust revenue-splitting smart contract protocol for freelance collectives, DAO squads, and digital creators.
 
