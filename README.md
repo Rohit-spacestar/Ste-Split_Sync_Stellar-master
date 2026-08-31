@@ -13,7 +13,7 @@
 
 ## 🌐 Production Deployment & Master Submission Index
 * **LIVE MVP DEMO:** [https://splitsync-stellar.vercel.app/](https://splitsync-stellar.vercel.app/)
-* **GITHUB REPOSITORY:** [https://github.com/brad-git03/Split_Sync_Stellar](https://github.com/brad-git03/Split_Sync_Stellar)
+* **GITHUB REPOSITORY:** [https://github.com/Rohit-spacestar/Split_Sync_Stellar](https://github.com/Rohit-spacestar/Split_Sync_Stellar)
 * **OFFICIAL TWITTER / X PROFILE:** [https://x.com/splitsyncmain](https://x.com/splitsyncmain)
 * **USER ONBOARDING GOOGLE FORM:** [SplitSync User Onboarding & Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSew_Dk6XX_yJd9vUFFIAF8iMaaf83nh584NKM2ei7lJc1fF-g/viewform)
 * **PUBLIC GOOGLE SHEETS RESPONSES:** [SplitSync Onboarding Responses (Google Sheets)](https://docs.google.com/spreadsheets/d/1wk3purksBoem2jGBLHgHoB1c_fJrlnJXI8lg1unC0aU/edit?usp=sharing)
@@ -29,10 +29,10 @@
 * **MAINNET TRANSACTION RECORDS:** [docs/mainnet_payment_transactions.json](docs/mainnet_payment_transactions.json)
 * **LIVE ON-CHAIN LANDING FEED:** [frontend/src/components/LiveActivityFeed.tsx](frontend/src/components/LiveActivityFeed.tsx)
 * **ADVANCED FEATURE (BLACK BELT - LEVEL 6):** [Gasless Fee Sponsorship Service](frontend/src/components/Dashboard.tsx)
-* **LEVEL 5 FEATURE COMMIT (Pre-flight Split Estimator):** [Commit `0deaafb`](https://github.com/brad-git03/Split_Sync_Stellar/commit/0deaafbd5c23de67a3f3aefcf27e4e13deefc432)
-* **LEVEL 6 FEATURE COMMIT (Gasless Fee Sponsorship):** [Commit `ceb2a67`](https://github.com/brad-git03/Split_Sync_Stellar/commit/ceb2a67)
-* **LEVEL 7 FEATURE COMMIT (Invoicing, Multi-Token FX, Proposals):** [Commit `04f8a43`](https://github.com/brad-git03/Split_Sync_Stellar/commit/04f8a43)
-* **UX & USABILITY UPGRADE COMMIT (Flow Diagram, Presets, Roles):** [Commit `19626c4`](https://github.com/brad-git03/Split_Sync_Stellar/commit/19626c4)
+* **LEVEL 5 FEATURE COMMIT (Pre-flight Split Estimator):** [Commit `0deaafb`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/0deaafbd5c23de67a3f3aefcf27e4e13deefc432)
+* **LEVEL 6 FEATURE COMMIT (Gasless Fee Sponsorship):** [Commit `ceb2a67`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/ceb2a67)
+* **LEVEL 7 FEATURE COMMIT (Invoicing, Multi-Token FX, Proposals):** [Commit `04f8a43`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/04f8a43)
+* **UX & USABILITY UPGRADE COMMIT (Flow Diagram, Presets, Roles):** [Commit `19626c4`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/19626c4)
 * **SOROBAN CONTRACT ID:** `CA7SDEPQEIQZBA6VVTSLB4NTBKAW2CGSIRTKGK66XHK4W5PPN43DRLPI`
 * **CONTRACT EXPLORER:** [stellar.expert/explorer/testnet/contract/CA7SDEPQEIQZBA6VVTSLB4NTBKAW2CGSIRTKGK66XHK4W5PPN43DRLPI](https://stellar.expert/explorer/testnet/contract/CA7SDEPQEIQZBA6VVTSLB4NTBKAW2CGSIRTKGK66XHK4W5PPN43DRLPI)
 
@@ -138,57 +138,57 @@ Based on pilot user survey responses from our 50 onboarded users, we implemented
 1. **Pre-flight Payout Estimator & Division Remainder Preview**:
    * *User Feedback (Quinn White)*: *"I want to see the splits previewed before I sign the transaction to be sure of the Math."*
    * *Implemented Feature*: Interactive split calculator inside the payout form that previews split outputs and remainder dust routing in real-time.
-   * *Git Commit Link*: [Commit `0deaafb`](https://github.com/brad-git03/Split_Sync_Stellar/commit/0deaafbd5c23de67a3f3aefcf27e4e13deefc432)
+   * *Git Commit Link*: [Commit `0deaafb`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/0deaafbd5c23de67a3f3aefcf27e4e13deefc432)
 
 2. **Trustline Panic Exception Interception & Health Scanner**:
    * *User Feedback (Leo Harris)*: *"If a recipient has no trustline for the token, the contract simulation crashes without clear explanations."*
    * *Implemented Feature*: Intercepted WASM VM panics (HostError #13) and built a live **Recipient Trustline Health Scanner** inside the Admin Panel.
-   * *Git Commit Links*: [Commit `0a4b367`](https://github.com/brad-git03/Split_Sync_Stellar/commit/0a4b367b61a357f89d31d4e61c32729a647e67e3) & [Commit `c59ef05`](https://github.com/brad-git03/Split_Sync_Stellar/commit/c59ef05a123)
+   * *Git Commit Links*: [Commit `0a4b367`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/0a4b367b61a357f89d31d4e61c32729a647e67e3) & [Commit `c59ef05`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/c59ef05a123)
 
 3. **Input Spacing & Address Trimming**:
    * *User Feedback*: *"Accidentally typing a trailing space when copying public keys causes validation errors."*
    * *Implemented Feature*: Automatic `.trim()` sanitization on all wallet address and contract ID text inputs.
-   * *Git Commit Link*: [Commit `7da89ad`](https://github.com/brad-git03/Split_Sync_Stellar/commit/7da89ad9b57ad51be98f7e7769e59d99723c21a4)
+   * *Git Commit Link*: [Commit `7da89ad`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/7da89ad9b57ad51be98f7e7769e59d99723c21a4)
 
 4. **Gasless Fee Sponsorship (Stellar CAP-0015 Protocol - Level 6)**:
    * *User Feedback*: *"New team members without XLM balances get stuck on network gas fees."*
    * *Implemented Feature*: Sponsor Relayer pool wrapping payouts in `FeeBumpTransaction` envelopes for $0.00 gas costs.
-   * *Git Commit Link*: [Commit `ceb2a67`](https://github.com/brad-git03/Split_Sync_Stellar/commit/ceb2a67)
+   * *Git Commit Link*: [Commit `ceb2a67`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/ceb2a67)
 
 5. **Client Invoicing & Hosted Web3 Checkout Portal (`/invoice/[id]` - Level 7)**:
    * *User Feedback (Lucas Silva)*: *"Our clients don't know how to interact with the raw dApp contract interface; we need a simple link where they can view the itemized invoice and click pay."*
    * *Implemented Feature*: Built a dynamic client checkout page at `/invoice/[id]` where clients can review line items, see the on-chain split breakdown, pay via Freighter with 1-click, and print/download official cryptographic receipts.
-   * *Git Commit Link*: [Commit `04f8a43`](https://github.com/brad-git03/Split_Sync_Stellar/commit/04f8a43)
+   * *Git Commit Link*: [Commit `04f8a43`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/04f8a43)
 
 6. **Multi-Token Asset Support & Live Fiat FX Conversion Engine (PHP, USD, EUR, GBP, BRL, INR)**:
    * *User Feedback (Elena Rostova & David Kalu)*: *"Our global members live in different countries and want to see their estimated local currency earnings."*
    * *Implemented Feature*: Added token support for USDC, XLM, EURC, and PYUSD, paired with a real-time fiat FX conversion calculator displaying estimates in ₱ PHP, $ USD, € EUR, £ GBP, R$ BRL, and ₹ INR.
-   * *Git Commit Link*: [Commit `04f8a43`](https://github.com/brad-git03/Split_Sync_Stellar/commit/04f8a43)
+   * *Git Commit Link*: [Commit `04f8a43`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/04f8a43)
 
 7. **Dynamic Share Proposals & Multi-Sig Squad Voting Portal (Level 7)**:
    * *User Feedback (Oliver Campbell)*: *"When project milestones change, redeploying contracts is tedious. We need a way for squad members to vote and approve split changes."*
    * *Implemented Feature*: Built an on-chain proposal portal in Tab 4 where members create revision proposals and sign with multi-sig quorum to automatically update split rules.
-   * *Git Commit Link*: [Commit `04f8a43`](https://github.com/brad-git03/Split_Sync_Stellar/commit/04f8a43)
+   * *Git Commit Link*: [Commit `04f8a43`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/04f8a43)
 
 8. **Live Visual Payment Flow Diagram (Interactive Sankey Routing)**:
    * *User Feedback (Maya Lin)*: *"Looking at raw numbers and basis points is hard to visualize before sending a large payment."*
    * *Implemented Feature*: Added an interactive visual distribution architecture diagram in Tab 2 that maps payer funds through the Soroban contract down to individual members with glowing routing pulses and live fiat calculations.
-   * *Git Commit Link*: [Commit `19626c4`](https://github.com/brad-git03/Split_Sync_Stellar/commit/19626c4)
+   * *Git Commit Link*: [Commit `19626c4`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/19626c4)
 
 9. **Quick Split Presets & Fluid Percentage Sliders**:
    * *User Feedback (Carlos Mendez)*: *"Manually calculating basis points like 6000 and 4000 is tedious for non-crypto users."*
    * *Implemented Feature*: Added 1-click split presets (`Equal 50/50`, `60/40`, `70/30`, `40/30/30`) alongside interactive drag-and-drop percentage sliders that dynamically compute basis points behind the scenes.
-   * *Git Commit Link*: [Commit `19626c4`](https://github.com/brad-git03/Split_Sync_Stellar/commit/19626c4)
+   * *Git Commit Link*: [Commit `19626c4`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/19626c4)
 
 10. **Squad Member Nicknames & Role Tags**:
     * *User Feedback (Quinn White)*: *"Seeing long raw public keys like G... makes it difficult to remember team roles."*
     * *Implemented Feature*: Integrated customizable Member Name & Role inputs (*Lead Dev*, *UI/UX Designer*, *Smart Contract Dev*) that display across split builders, flow diagrams, and invoices.
-    * *Git Commit Link*: [Commit `19626c4`](https://github.com/brad-git03/Split_Sync_Stellar/commit/19626c4)
+    * *Git Commit Link*: [Commit `19626c4`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/19626c4)
 
 11. **Real-time On-Chain Wallet Balance Synchronization**:
     * *User Feedback*: *"Wallet header balance should reflect real testnet/mainnet native XLM and SAC balances."*
     * *Implemented Feature*: Connected directly to Stellar Horizon RPC (`https://horizon-testnet.stellar.org/accounts/...`) to fetch and display live on-chain balances with automatic asset-switch detection.
-    * *Git Commit Link*: [Commit `5ece9aa`](https://github.com/brad-git03/Split_Sync_Stellar/commit/5ece9aa)
+    * *Git Commit Link*: [Commit `5ece9aa`](https://github.com/Rohit-spacestar/Split_Sync_Stellar/commit/5ece9aa)
 
 ---
 
