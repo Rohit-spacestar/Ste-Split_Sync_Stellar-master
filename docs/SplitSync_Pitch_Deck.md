@@ -1,4 +1,4 @@
-# SplitSync Pitch Deck
+# SplitSync Pitch Deck 
  
 This document contains the presentation slides and talking points for **SplitSync**, designed for the Level 5 Stellar Challenge submission.
 
