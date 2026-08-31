@@ -1,0 +1,18 @@
+# Rust / Cargo
+split_sync/target/
+target/
+
+# Next.js / Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+node_modules/
+.next/
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
