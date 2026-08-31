@@ -1,5 +1,5 @@
 # SplitSync 30-Day Social Media Growth Strategy (X / Twitter)
-
+ 
 **Account**: [@splitsyncmain](https://x.com/splitsyncmain)  
 **Objective**: Build brand awareness, engage Stellar ecosystem builders, and scale to **50+ active Web3 followers**.  
 **Target Audience**: Freelancers, DAO contributors, indie Web3 builders, and Stellar Soroban developers.  
