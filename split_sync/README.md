@@ -1,7 +1,7 @@
 # SplitSync 
 
 > Stellar-powered automated, zero-dust revenue-splitting smart contract protocol for freelance collectives, DAO squads, and digital creators.
-
+ 
 ![Stellar](https://img.shields.io/badge/Stellar-Testnet_%26_Mainnet-0099C6?style=flat-square&logo=stellar&logoColor=white)
 ![Soroban](https://img.shields.io/badge/Soroban-Smart_Contracts-00686B?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
