@@ -2,7 +2,7 @@
 
 **Author**: SplitSync Core Engineering Team  
 **Category**: Developer Tutorial & Ecosystem Technical Contribution  
-**Target Platform**: Stellar Soroban Smart Contracts + Next.js + Freighter Wallet  
+**Target Platform**: Stellar Soroban Smart Contracts + Next.js + Freighter Wallet   
 
 ---
 
