@@ -1,4 +1,4 @@
-# Contributing to SplitSync
+# Contributing to SplitSync 
  
 Thank you for your interest in contributing to SplitSync! We welcome developer contributions to make payment splitting on Stellar more robust and feature-rich.
 
