@@ -1,4 +1,4 @@
-# SplitSync Official Twitter/X Product Launch Thread
+# SplitSync Official Twitter/X Product Launch Thread 
 
 **Product**: SplitSync — Automated Zero-Dust Revenue Splitter on Stellar Soroban   
 **Hashtags**: `#Stellar` `#Soroban` `#BuildOnStellar` `#Web3` `#DeFi`  
