@@ -1,4 +1,4 @@
-# SplitSync Official X (Twitter) Brand Assets & Launch Kit
+# SplitSync Official X (Twitter) Brand Assets & Launch Kit 
 
 ---
  
