@@ -1,5 +1,5 @@
 # SplitSync Launch Users & Verification Records
-
+ 
 > Complete record of 50 verified pilot testnet users, real authentic feedback reviews, wallet addresses, transaction hashes, and satisfaction telemetry onboarded onto the SplitSync smart contract protocol. 
 
 ---
