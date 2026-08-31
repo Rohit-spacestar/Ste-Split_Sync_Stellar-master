@@ -1,7 +1,7 @@
 # SplitSync Official X (Twitter) Brand Assets & Launch Kit 
 
 ---
- 
+  
 ## 🎨 **1. Official Brand Assets**
 
 * **Official Avatar / Logo**: `frontend/public/logo.jpg` (1024x1024 square profile icon)
