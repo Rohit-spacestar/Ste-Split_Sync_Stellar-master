@@ -1,5 +1,5 @@
 //! SplitSync: Automated, trustless payment splitter contract built on Soroban.
-//! Designed for freelance collectives to split stablecoins (USDC) and native XLM atomically.
+//! Designed for freelance collectives to split stablecoins (USDC) and native XLM atomically. 
 
 #![no_std]
 use soroban_sdk::{contract, contractimpl, contracttype, token, Address, Env, Vec};
@@ -75,4 +75,4 @@ impl SplitSyncContract {
 }
 
 #[cfg(test)]
-mod test;
+mod test;
