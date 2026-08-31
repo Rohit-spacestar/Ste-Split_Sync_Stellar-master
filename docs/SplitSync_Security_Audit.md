@@ -1,4 +1,4 @@
-# SplitSync Smart Contract Security Audit & Risk Assessment
+# SplitSync Smart Contract Security Audit & Risk Assessment 
 
 **Date**: August 14, 2026  
 **Target Contract**: `split_sync` (Soroban Rust Smart Contract)  
