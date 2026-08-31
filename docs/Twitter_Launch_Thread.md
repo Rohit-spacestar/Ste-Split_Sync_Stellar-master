@@ -1,6 +1,6 @@
 # SplitSync Official Twitter/X Product Launch Thread
 
-**Product**: SplitSync — Automated Zero-Dust Revenue Splitter on Stellar Soroban  
+**Product**: SplitSync — Automated Zero-Dust Revenue Splitter on Stellar Soroban   
 **Hashtags**: `#Stellar` `#Soroban` `#BuildOnStellar` `#Web3` `#DeFi`  
 **Tags**: `@StellarOrg`  
 **Rule**: All 5 tweets are strictly under **250 characters each**.
