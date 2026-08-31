@@ -1,4 +1,4 @@
-# SplitSync User Onboarding & Feedback Report
+# SplitSync User Onboarding & Feedback Report 
 
 This document serves as proof of user onboarding, wallet interactions, and feedback collection for the **SplitSync Level 4 Challenge**.
  
