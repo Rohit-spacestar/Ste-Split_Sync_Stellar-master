@@ -1,7 +1,7 @@
 # 🚀 SplitSync Stellar Mainnet Deployment & Activation Guide
  
 > **Target Network:** Stellar Public Mainnet (`Public Global Stellar Network ; September 2015`)  
-> **Soroban Smart Contract:** `split_sync.wasm`  
+> **Soroban Smart Contract:** `split_sync.wasm`   
 > **Contract Protocol:** Automated Zero-Dust Revenue Splitter  
 > **Purpose:** Instructions for deploying SplitSync to Stellar Mainnet and executing verified Mainnet transactions.
 
