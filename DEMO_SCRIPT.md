@@ -1,5 +1,5 @@
 # SplitSync Product Walkthrough & Demo Script
-
+ 
 **Project**: SplitSync — Automated Zero-Dust Revenue Splitter on Stellar Soroban  
 **Target Duration**: 2 - 3 minutes  
 **Target Audience**: Judges, Reviewers, and Web3 Developers  
